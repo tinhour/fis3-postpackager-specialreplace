@@ -15,5 +15,13 @@
   "optionalDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/tinhour/fis3-postpackager-specialreplace/issues"
+  },
+  "homepage": "https://github.com/tinhour/fis3-postpackager-specialreplace",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinhour/fis3-postpackager-specialreplace.git"
   }
 }
