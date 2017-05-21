@@ -1,7 +1,7 @@
 {
   "name": "fis3-postpackager-specialreplace",
   "description": "replace some link after postpackager",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "tinhour",
   "dependencies": {},
   "devDependencies": {},
